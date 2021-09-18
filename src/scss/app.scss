@@ -37,10 +37,10 @@ html {
 	}
 }
 
-.is-4 {
+.small {
 	width: map-get($widget-sizes, small);
 }
 
-.is-6 {
+.big {
 	width: map-get($widget-sizes, large);
 }
