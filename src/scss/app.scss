@@ -38,9 +38,9 @@ html {
 }
 
 .small {
-	width: map-get($widget-sizes, small);
+	width: map-get($widget-sizes, "small");
 }
 
 .big {
-	width: map-get($widget-sizes, large);
+	width: map-get($widget-sizes, "large");
 }
